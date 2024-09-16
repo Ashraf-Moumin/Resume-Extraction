@@ -154,3 +154,5 @@ cython_debug/
 
 
 tf_model_(1).h5
+embeddings
+data

@@ -1,4 +1,4 @@
-import json
+import tensorflow as tf
 
-data= json.load('data/Resume.json')
+model = tf.keras.models.load_model('embeddings/model.safetensors')
 
