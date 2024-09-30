@@ -2,7 +2,6 @@
 from sentence_transformers import SentenceTransformer
 import numpy as np
 
-#model = tf.keras.models.load_model('embeddings/model.safetensors')
 
 words_positive = ["skills", "education", "work experience", "experience", "internship", 
                   "training", "languages", "programming language", "university",
